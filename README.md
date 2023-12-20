@@ -5,7 +5,7 @@ Autora: Leidian Patricio
 Descrição do problema: A ideia é fazer algo simples e didático para ser usado em ambientes educacionais infantis
 como de estimular as crianças para a matemática como o campo da programação na informática. Uma criança iria ficar 
 no lado servidor, observando as respostas a cada nova solicitação do cliente(uma outra criança em um outro computador).
-Serviços e Funcionalidades:
+Serviços e Funcionalidades:  
 
 Conexão Remota:
 
